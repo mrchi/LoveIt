@@ -47,7 +47,7 @@ other = "切换主题"
 
 # === partials/footer.html ===
 [poweredBySome]
-other = "由 {{ .Hugo }} 强力驱动 | 主题 - {{ .Theme }}"
+other = "❤️ {{ .Hugo }} & {{ .Theme }}"
 # === partials/footer.html ===
 
 # === partials/comment.html ===
@@ -150,7 +150,7 @@ other = "阅读全文"
 other = "页面没找到"
 
 [pageNotFoundText]
-other = "抱歉，您要查找的页面不存在。"
+other = "你似乎来到了没有知识存在的荒原"
 # === 404.html ===
 
 # === shortcodes/admonition.html ===
